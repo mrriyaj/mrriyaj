@@ -25,7 +25,6 @@ I'm currently focused on developing scalable applications and delivering top-not
 I'm always open to collaboration, new opportunities, or just a good tech chat. Feel free to connect with me!
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mrriyaj)
-- **Twitter:** [Follow me](https://twitter.com/mrriyaj)
 - **Personal Blog:** [w3uni.com](https://w3uni.com)
 
 ---
