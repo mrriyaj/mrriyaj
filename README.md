@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and the Foun
 
 I'm currently focused on developing scalable applications and delivering top-notch solutions in web development and IoT. Laravel is one of my go-to frameworks for building robust backend systems.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrriyaj)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrriyaj)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrriyaj)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrriyaj)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 My Goals
 
