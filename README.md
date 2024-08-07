@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and the Foun
 
 I'm currently focused on developing scalable applications and delivering top-notch solutions in web development and IoT. Laravel is one of my go-to frameworks for building robust backend systems.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrriyaj)](https://git.io/streak-stats)
+
 ## 📈 My Goals
 
 - Launching a program to help students secure internships and bridge the skill gap in the tech industry.
