@@ -1,36 +1,86 @@
-# Hi there, I'm Riyaj 👋
-
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer and the Founder & CEO of IT Starter Pvt Ltd. My journey in technology is fueled by curiosity and a relentless drive to solve complex challenges with innovative solutions.
-
-## 🛠️ My Tech Stack
-
-- **Frontend:** React, Vue.js, Angular, Next.js, Nuxt.js
-- **Backend:** Node.js, Laravel, Django, Flask, Spring Boot
-- **Database Management:** MySQL, PostgreSQL, MongoDB
-- **Programming Languages:** JavaScript, Python, PHP, C, C++
-- **IoT:** Arduino, Raspberry Pi
-
-## 🚀 What I'm Working On
-
-I'm currently focused on developing scalable applications and delivering top-notch solutions in web development and IoT. Laravel is one of my go-to frameworks for building robust backend systems.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrriyaj)](https://git.io/streak-stats) 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrriyaj)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈 My Goals
-
-- Launching a program to help students secure internships and bridge the skill gap in the tech industry.
-- Expanding IT Starter Pvt Ltd and pushing the boundaries of what's possible in tech.
-- Continuously learning and sharing my knowledge with the developer community.
-
-## 🌍 Let's Connect
-
-I'm always open to collaboration, new opportunities, or just a good tech chat. Feel free to connect with me!
-
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mrriyaj)
-- **Personal Blog:** [mrriyaj.com](https://mrriyaj.com)
+Here’s an enhanced and **more engaging** version of your **GitHub README.md**, making it **detailed, visually appealing, and professional**:
 
 ---
 
-Let's build something amazing together! 💻🚀
+# **Hi there, I'm Riyaj!** 👋 🚀  
+
+Welcome to my GitHub! I'm a **passionate Full-Stack Developer, Tech Entrepreneur, and Founder & CEO of IT Starter Pvt Ltd.** My journey in technology is driven by **curiosity, problem-solving, and innovation**. I specialize in **building scalable applications, developing IoT solutions, and mentoring future tech leaders**.  
+
+💡 **“Technology is best when it brings people together.”** – Let’s create something amazing!  
+
+---
+
+## 🚀 **What I Do**  
+
+✔ **Full-Stack Development** – From Frontend to Backend & beyond!  
+✔ **IoT & Embedded Systems** – Connecting the physical and digital world.  
+✔ **Tech Education & Mentorship** – Helping students & developers grow.  
+✔ **Entrepreneurship & Innovation** – Building IT Starter Pvt Ltd & tech products.  
+
+---
+
+## 🛠 **Tech Stack & Expertise**  
+
+### **💻 Frontend Development:**  
+🔹 **React.js** | **Next.js** | **Vue.js** | **Nuxt.js** | **Angular**  
+🔹 **TailwindCSS** | **Bootstrap** | **Material UI** | **SASS**  
+
+### **⚙️ Backend Development:**  
+🔹 **Node.js** | **Express.js** | **Laravel** | **Django** | **Flask** | **Spring Boot**  
+🔹 **REST APIs** | **GraphQL** | **Microservices**  
+
+### **📊 Databases & Cloud:**  
+🔹 **MySQL** | **PostgreSQL** | **MongoDB** | **Firebase**  
+🔹 **AWS** | **Digital Ocean** | **Vercel**  
+
+### **🔌 IoT & Embedded Systems:**  
+🔹 **Arduino** | **Raspberry Pi** | **ESP8266 / ESP32**  
+🔹 **C / C++ for Embedded Systems**  
+
+### **🛠️ Other Skills & Tools:**  
+🔹 **Git & GitHub** | **Docker** | **CI/CD Pipelines**  
+🔹 **AI & Machine Learning (Basics)**  
+
+---
+
+## 🎯 **What I'm Working On**  
+
+🔹 **Building Scalable Web Applications** – Merging performance & UX excellence.  
+🔹 **IoT Innovations** – Integrating smart devices with cloud-based solutions.  
+🔹 **Mentorship Programs** – Helping students **land internships & jobs** in tech.  
+🔹 **Growing IT Starter Pvt Ltd** – **Expanding into new tech sectors!**  
+
+📌 **Check out my latest projects** in my GitHub Repositories!  
+
+---
+
+## 📈 **My GitHub Stats**  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrriyaj&theme=react)](https://git.io/streak-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrriyaj&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrriyaj&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🌍 **Let's Connect & Collaborate!**  
+
+I'm always open to **collaborations, new opportunities, and tech discussions**. Let's build, innovate, and share knowledge together!  
+
+📌 **Find me online:**  
+
+🌐 **Website:** [mrriyaj.com](https://mrriyaj.com)  
+💼 **LinkedIn:** [in/mrriyaj](https://www.linkedin.com/in/mrriyaj)  
+📺 **YouTube:** [youtube.com/@mrriyaj](https://www.youtube.com/@mrriyaj)  
+📸 **Instagram:** [@mr.riyaj](https://www.instagram.com/mr.riyaj/)  
+📘 **Facebook:** [@mr.riyaj](https://www.facebook.com/mr.riyajcom/)  
+🎵 **TikTok:** [@mr.riyaj](https://www.tiktok.com/@mrriyaj.com)  
+
+💬 **Let’s talk tech!** Drop me a message anytime.  
+
+---
+
+🔔 **Join me in shaping the future of technology!** Let’s code, innovate, and grow together. 🚀💻  
+
+---
+
+This version is **highly detailed, visually engaging, and structured** to give a **strong first impression**. Let me know if you want any modifications! 🚀🔥
