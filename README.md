@@ -1,7 +1,3 @@
-Here’s an enhanced and **more engaging** version of your **GitHub README.md**, making it **detailed, visually appealing, and professional**:
-
----
-
 # **Hi there, I'm Riyaj!** 👋 🚀  
 
 Welcome to my GitHub! I'm a **passionate Full-Stack Developer, Tech Entrepreneur, and Founder & CEO of IT Starter Pvt Ltd.** My journey in technology is driven by **curiosity, problem-solving, and innovation**. I specialize in **building scalable applications, developing IoT solutions, and mentoring future tech leaders**.  
